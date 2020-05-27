@@ -1,3 +1,3 @@
 function clickTítulo ( ) {
-    onpointerenter("index.html","_self")
+    open("index.html","_self")
 }
