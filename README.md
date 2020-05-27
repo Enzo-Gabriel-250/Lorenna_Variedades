@@ -4,7 +4,8 @@ Esse repositório foi feito para um site de um cliente,o site pedido pelo client
 
 # Desenvolvedor
 
-Esse site foi desenvolvido por Enzo Gabriel,você pode entrar em contato ou ver outros trabalhos atraves do:
+Esse site foi desenvolvido por Enzo Gabriel,você pode entrar em contato ou ver outros trabalhos através do:
 
 E-mail : gabrielcode250@gmail.com
+
 Repl : https://repl.it/@EnzoGabriel250
